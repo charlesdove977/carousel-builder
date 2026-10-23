@@ -10,6 +10,8 @@ Higgsfield generates a theme-locked cover and middle images. Character budgets k
 
 </div>
 
+Step-by-step guide and setup walkthrough: [Carousel Builder guide on charlieautomates.com](https://charlieautomates.com/free-resources/#carousel-builder)
+
 ---
 
 ## What it does
